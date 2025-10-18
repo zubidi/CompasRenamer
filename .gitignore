@@ -3,4 +3,12 @@ venv/
 
 .idea/
 
-5 - Максимова/
+5 - Максимова*/
+
+test.py
+
+build/
+
+dist/
+
+app/__pycache__/
